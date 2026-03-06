@@ -203,4 +203,5 @@ puesto_seleccionado = st.sidebar.multiselect(
 df_filtrado = df_filtrado[df_filtrado["ID_PUESTO"].isin(puesto_seleccionado)]
     
 
+
     
